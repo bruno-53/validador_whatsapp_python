@@ -7,8 +7,8 @@
 
 ### COMO USAR?
 > Baixe o repositorio.
-> Instale o python3.
-> Instale o selenium 
+>> Instale o python3.
+>>> Instale o selenium 
 ~~~cmd
 pip install selenium
 ~~~
