@@ -1,4 +1,4 @@
-# VALIDADOR WHATSAPP :iphone: :heavy_check_mark: :heavy_check_mark:
+# VALIDADOR WHATSAPP :iphone: :heavy_check_mark: :snake:
 ##### [!!!] Valide se uma lista de telefones tem cadastro no WHATSAPP [!!!]
 
 
@@ -12,6 +12,9 @@
 ~~~cmd
 pip install selenium
 ~~~
+>>>> Coloque os numeros no arquivo _numeros.txt_ (Um numero por linha).
+>>>> Siga as instruções.
+>>>> Recolha a lista em _resultados.txt_.
 
 #### FEITO POR
 
