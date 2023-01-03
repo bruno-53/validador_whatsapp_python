@@ -13,7 +13,7 @@
 pip install selenium
 ~~~
 >>>> Coloque os numeros no arquivo _numeros.txt_ (Um numero por linha).
->>>>> Siga as instruções.
+>>>>> Execute o arquivo **main.py** e siga as instruções.
 >>>>>> Recolha a lista em _resultados.txt_.
 
 #### FEITO POR
