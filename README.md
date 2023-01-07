@@ -8,10 +8,13 @@
 ### COMO USAR?
 > Baixe o repositorio.
 >> Instale o python3.
->>> Instale o selenium 
+>>> Instale o selenium e o webdriver-manager
 ~~~cmd
 pip install selenium
+pip install webdriver-manager
 ~~~
+
+
 >>>> Coloque os numeros no arquivo _numeros.txt_ (Um numero por linha).
 >>>>> Execute o arquivo **main.py** e siga as instruções.
 >>>>>> Recolha a lista em _resultados.txt_.
