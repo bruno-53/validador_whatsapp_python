@@ -22,7 +22,7 @@ resultado = []
 #VALIDAR SE O LOGIN FOI FEITO
 navegador.get('https://web.whatsapp.com/');
 navegador.implicitly_wait(3.0)
-validador = navegador.find_element('xpath','/html/body/div[1]/div/div/div[3]/div[1]/div/a').is_displayed()
+validador = navegador.find_element('xpath','/html/body/div[1]/div/div/div[3]/div[2]/div[1]').is_displayed()
 
 # VALIDAR NUMERO
 if validador is True:
